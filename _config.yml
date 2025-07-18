@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zachary Gomez # the main title
+title: The Serpents Crown # the main title
 
-tagline: Personal Blog # it will display as the subtitle
+tagline: Cyber Learning Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  Personal Blog Test
