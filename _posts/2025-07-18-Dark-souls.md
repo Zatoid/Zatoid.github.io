@@ -3,7 +3,6 @@ title: "Dark Souls is a Wonderful Game"
 date: 2025-07-18 01:11:00 +0800
 categories: [Gaming]
 tags: [Dark Souls, Gaming]
-{{page.content | number_of_words}}
 ---
 
 # Dark Souls is a Wonderful Game
