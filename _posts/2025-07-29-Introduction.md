@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2025-07-29
+date: 2025-07-29 17:51:00 -0600
 categories: [Introduction]
 tags: [Welcome, Getting Started]
 ---
